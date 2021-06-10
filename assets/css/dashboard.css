@@ -1,0 +1,16 @@
+body {
+  font-size: .875rem;
+}
+
+.navbar .navbar-brand{
+  margin-left: 20px;
+}
+
+.navbar .dropdown{
+  margin-right: 20px;
+}
+
+#chart_div{
+  display: flex;
+  justify-content: center;
+}
